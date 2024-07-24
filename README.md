@@ -3,7 +3,7 @@ This Python script sends messages to an Azure Storage Queue. It generates random
 
 ## Prerequisites
 
-- Python 3.6 or higher
+- [Python 3.6 or higher](https://www.python.org/downloads/)
 - [Azure subscription](https://azure.microsoft.com/free/)
 - [Azure Storage Account](https://azure.microsoft.com/services/storage/)
 - [Azure Queue Storage](https://docs.microsoft.com/azure/storage/queues/)
