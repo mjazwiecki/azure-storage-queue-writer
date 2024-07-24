@@ -13,8 +13,8 @@ This Python script sends messages to an Azure Storage Queue. It generates random
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone git@github.com:mjazwiecki/azure-storage-queue-writer.git
+    cd write
     ```
 
 2. **Create a virtual environment and activate it:**
